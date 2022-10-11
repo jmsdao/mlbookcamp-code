@@ -2,6 +2,9 @@
 
 In this homework, we will use Credit Card Data from [the previous homework](https://github.com/alexeygrigorev/mlbookcamp-code/blob/master/course-zoomcamp/cohorts/2022/04-evaluation/homework.md).
 
+> Note: sometimes your answer doesn't match one of the options exactly. That's fine. 
+Select the option that's closest to your solution.
+
 
 ## Question 1
 
@@ -14,6 +17,9 @@ In this homework, we will use Credit Card Data from [the previous homework](http
 
 * Use Pipenv to install Scikit-Learn version 1.0.2
 * What's the first hash for scikit-learn you get in Pipfile.lock?
+
+Note: you should create an empty folder for homework
+and do it there. 
 
 
 ## Models
@@ -61,7 +67,7 @@ Let's use these models!
 
 What's the probability that this client will get a credit card? 
 
-* 0.148
+* 0.162
 * 0.391
 * 0.601
 * 0.993
